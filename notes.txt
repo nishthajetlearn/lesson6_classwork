@@ -1,0 +1,22 @@
+Multiple plots on the same graph
+>>start with mutiple line plots and scatter plots on teh same space 
+
+>> continue with bar charts by showing how could you draw the multiple bars in teh same space and do easy comparision
+
+Introduce to histogram, stack plot, pie chart, scatter plot
+
+Introduce to sub-plotting
+>> example to demonstrate how subplots could be used 
+
+>>>>>>>>>>>>
+Explanation of the Code
+Multiple Line and Scatter Plots: This example shows how to create multiple line and scatter plots on the same graph to compare different functions.
+Bar Charts: This code demonstrates how to create grouped bar charts for easy comparison of two datasets.
+Histograms: The histogram example shows the distribution of random data, which can be useful for understanding data frequency.
+Stacked Plot: The stacked bar chart illustrates how to visualize different series in the same category.
+Pie Chart: This code creates a pie chart to show the proportional representation of different categories.
+Subplots: The final example demonstrates how to create multiple plots in a single figure using subplots, which is useful for comparing different types of visualizations side by side.
+
+
+to run the code :
+pip install numpy matplotlib
